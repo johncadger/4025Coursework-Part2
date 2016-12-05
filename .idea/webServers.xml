@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5847d482-37ac-4c03-b08a-ff09cbc6c035" name="coursework" url="http://52.18.176.75">
+        <fileTransfer host="52.18.176.75" port="22" privateKey="F:\Web Enterprise\1204848.pem" accessType="SFTP" username="ubuntu" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
